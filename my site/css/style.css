@@ -1,0 +1,39 @@
+.top-container
+{
+
+}
+body{
+  margin:0;
+   background-color: #99FFCD;
+}
+.cloud{
+  display:inline-block;
+}
+.mountain
+{position: relative;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 13px;
+  margin-bottom:0;
+    display: inline-block;
+
+}
+h1
+{margin-left:auto;
+margin-right: auto;
+margin-top: 0;
+margin-bottom:0;
+
+  color:black;
+  font-style:italic;
+font-size: 70px
+}
+p
+{
+  font-size: 30px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom:0;
+  font-style: italic;
+}

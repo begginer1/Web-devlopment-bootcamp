@@ -1,0 +1,21 @@
+/*Comments*/
+
+/*         Classes*/
+.cricket
+{
+background-color:black;
+}
+.football
+{
+  background-color: blue;
+}
+
+/*id*/
+#heading1
+{
+  color: blue;
+}
+#heading2
+{
+  color:green;
+}
