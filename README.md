@@ -1,2 +1,2 @@
-# Contain files of Angela Web Development Bootcamp Course 
+# Contain files and projects of Angela Web Development Bootcamp Course 
 
